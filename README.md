@@ -15,5 +15,11 @@ open calculator and tipe phisher
 
 
 
+
+for open type python3 calc.py
+
+
+
+
     
   
